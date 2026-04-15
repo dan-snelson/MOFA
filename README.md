@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">April 15, 2026 06:33 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">April 15, 2026 07:26 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -126,7 +126,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">April 15, 2026 06:33 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">April 15, 2026 07:26 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -134,12 +134,12 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft Excel | `16.108` | `com.microsoft.Excel` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/31/fc/5931fc99-e2d9-40fb-3e80-44b8e5405f73/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Excel" width="40"> |
 | Microsoft PowerPoint | `16.108` | `com.microsoft.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ac/30/f4ac30ca-d22f-544f-08e6-ad01d659d4f5/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft PowerPoint" width="40"> |
 | Microsoft Outlook | `16.107.4` | `com.microsoft.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/91/b5/0d91b504-fce0-2a1a-c29b-4dd2a6979bcb/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
-| Microsoft OneNote | `16.107.4` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/6d/a1/0f6da120-ec6b-91ee-dab5-034bcf62fb45/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
+| Microsoft OneNote | `16.108` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/93/61/68936113-c8c2-7349-498a-420d8d8458b9/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
 | OneDrive | `26.051.0316` | `com.microsoft.OneDrive-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/33/5e/14335e3a-9b1f-e201-1505-4ee87b0c532d/OneDrive.png/512x512bb.png" alt="OneDrive" width="40"> |
 | RMS Sharing | `1.3.4` | `com.microsoft.protection.rms-sharing-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/09/a4/f4/09a4f4b3-7aed-51c0-8e6b-5cb95ec6dada/rmssharing.png/512x512bb.png" alt="RMS Sharing" width="40"> |
 | Windows App | `11.3.5` | `com.microsoft.rdc.macos` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/db/ad/30dbadcc-f7c3-3def-723a-76e89ee9e238/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png" alt="Windows App" width="40"> |
 | Microsoft To Do | `2.169` | `com.microsoft.to-do-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/ed/35/2aed3552-3b6e-9cb7-7f12-483ce923304f/AppIcon-Release-0-85-220-0-5-0-0-2x-sRGB-0-0.png/512x512bb.png" alt="Microsoft To Do" width="40"> |
-| Microsoft Copilot | `25.6.440317001` | `com.microsoft.copilot-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/2c/c7/382cc711-efb5-4ac9-f96b-5d9bd6d975e4/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png" alt="Microsoft Copilot" width="40"> |
+| Microsoft Copilot | `25.6.440413001` | `com.microsoft.copilot-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/11/ba/6611baa0-ea44-814f-1b2c-27a608b12d50/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png" alt="Microsoft Copilot" width="40"> |
 | Azure VPN Client | `2.8.100` | `com.microsoft.AzureVpnMac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e1/79/fde1796c-45de-a318-3f02-419cdd1d2003/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png" alt="Azure VPN Client" width="40"> |
 | Universal Print | `1.0.5` | `com.microsoft.universalprintmac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/42/98/35429802-8ef5-c306-5279-ea3873609e14/AppIconProd-85-220-0-4-0-0-2x-0-0.png/512x512bb.png" alt="Universal Print" width="40"> |
 | Microsoft Rewards for Safari | `1.0.0` | `com.microsoft.Microsoft-Rewards-for-Safari` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/59/04/4b5904a2-060d-f5e1-707f-c96da43bd11f/AppIcon-85-220-4-2x.png/512x512bb.png" alt="Microsoft Rewards for Safari" width="40"> |
@@ -150,7 +150,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">April 15, 2026 06:33 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">April 15, 2026 07:26 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -171,7 +171,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Dynamics 365 Field Service | `13.26021.11` | `com.microsoft.dynamics.iphone.moca.fieldServices` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/31/c7/2831c7c3-6244-a56d-0a61-5420ff8c44b3/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Field Service" width="40"> |
 | Viva Engage | `11.36.0` | `wefwef` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/53/5d/87535d6c-b33e-f188-c503-2b9722e4025f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Viva Engage" width="40"> |
 | Whiteboard: just draw together | `2.6.2` | `com.jimschultz.WhiteBoard` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/53/7e/4b537e0f-ad6d-1b86-85f6-f7b65e7918c7/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg" alt="Whiteboard: just draw together" width="40"> |
-| Microsoft Edge: AI Browser | `146.3856.102` | `com.microsoft.msedge` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/1f/37/911f3713-2daf-eee5-3652-9055dd0264a2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg" alt="Microsoft Edge: AI Browser" width="40"> |
+| Microsoft Edge: AI Browser | `147.3912.60` | `com.microsoft.msedge` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/7f/f9/7e7ff95d-b9f0-bfe3-4fb6-6a1f68332337/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg" alt="Microsoft Edge: AI Browser" width="40"> |
 | Seeing AI | `5.6.1` | `com.microsoft.seeingai` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/a6/66/bea6661d-294b-f35d-34e1-3128b7b12006/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Seeing AI" width="40"> |
 | Microsoft Planner | `1.17.15` | `com.microsoft.PlannerMobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/56/8a/c7568a5c-04f9-5e91-a2f3-9986abc3e485/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Microsoft Planner" width="40"> |
 | Microsoft Azure | `8.1.5` | `com.microsoft.azure` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a3/7d/0aa37d49-6654-c9a5-e73f-41b42c6f391d/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Azure" width="40"> |
